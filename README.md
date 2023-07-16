@@ -1,2 +1,3 @@
-# C75-complete
-login
+# PRO-C75-E-Library-TA-boilerplate
+
+Class 75 teacher activity boilerplate code
